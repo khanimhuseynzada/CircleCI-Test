@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2163ca0-bf6c-4eb2-be30-8ba0452c133a" name="Changes" comment="test" />
+    <list default="true" id="e2163ca0-bf6c-4eb2-be30-8ba0452c133a" name="Changes" comment="test">
+      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +110,7 @@
       <updated>1648669244834</updated>
       <workItem from="1648669246545" duration="5459000" />
       <workItem from="1648722237802" duration="1414000" />
-      <workItem from="1648723949612" duration="9646000" />
+      <workItem from="1648723949612" duration="9953000" />
     </task>
     <task id="LOCAL-00001" summary="MyError">
       <created>1648726042648</created>
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648741319205</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="test">
+      <created>1648742120377</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1648742120378</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
